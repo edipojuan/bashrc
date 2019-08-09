@@ -2,4 +2,4 @@
 
 ## Author
 
-- **Édipo Juan** - _sobre_ - [edipojuan](http://edipojuan.com.br/)
+- **Édipo Juan** - _sobre_ - [edipojuan.com.br](http://edipojuan.com.br/)
